@@ -15,7 +15,7 @@ My motivation for this project was to convert an already existing app from using
 Here is the link to the Github repository where the repo can be cloned (https://github.com/bwalters8910/shopping-app-redux). Here is the link to the deployed application (https://shopping-app-redux.herokuapp.com/)
 
 
-![screenshot](/assets/screenshot.PNG)
+![screenshot](/client/src/assets/screenshot.PNG)
 
 
 ## License
