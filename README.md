@@ -12,7 +12,11 @@ My motivation for this project was to convert an already existing app from using
 
 ## Installation
 
-Here is the link to the Github repository where the repo can be cloned (https://github.com/bwalters8910/shopping-app-redux). Here is the link to the deployed application ()
+Here is the link to the Github repository where the repo can be cloned (https://github.com/bwalters8910/shopping-app-redux). Here is the link to the deployed application (https://shopping-app-redux.herokuapp.com/)
+
+
+![screenshot](/assets/screenshot.PNG)
+
 
 ## License
 
